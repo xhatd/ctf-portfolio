@@ -7,7 +7,7 @@ My hands-on cybersecurity learning journal: CTF challenges, lab exercises, tools
 ## 📊 Challenge Dashboard
 
 <!-- STATS_START -->
-**Completed:** 1 · **In progress:** 0 · **Platforms:** 1
+**Completed:** 2 · **In progress:** 0 · **Platforms:** 1
 <!-- STATS_END -->
 
 ## 🔎 Challenge Database
@@ -18,6 +18,7 @@ Browse the challenges below. Click a challenge to read its full methodology, fin
 | Challenge | Platform | Difficulty | Category | Status | Completed |
 |---|---|---|---|---|---|
 | [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Exploitation | Completed | 2026-05-08 |
+| [Sudo Security Bypass](tryhackme/sudo-security-bypass/README.md) | TryHackMe | Easy | Linux | Completed | 2026-05-19 |
 <!-- TABLE_END -->
 
 ## 🧰 Skills I'm Practicing

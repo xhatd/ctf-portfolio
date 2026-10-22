@@ -1,0 +1,10 @@
+{
+  "title": "Sudo Security Bypass",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": ["Linux"],
+  "status": "Completed",
+  "completed": "2026-05-19",
+  "tags": [],
+  "url": "https://tryhackme.com/room/sudovulnsbypass"
+}
