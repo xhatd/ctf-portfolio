@@ -7,7 +7,7 @@ My hands-on cybersecurity learning journal: CTF challenges, lab exercises, tools
 ## 📊 Challenge Dashboard
 
 <!-- STATS_START -->
-**Completed:** 3 · **In progress:** 0 · **Platforms:** 1
+**Completed:** 4 · **In progress:** 0 · **Platforms:** 2
 <!-- STATS_END -->
 
 ## 🔎 Challenge Database
@@ -17,6 +17,7 @@ Browse the challenges below. Click a challenge to read its full methodology, fin
 <!-- TABLE_START -->
 | Challenge | Platform | Difficulty | Category | Status | Completed |
 |---|---|---|---|---|---|
+| [PW Crack 1](picoctf/pw-crack-1/README.md) | picoCTF | Easy | General Skill | Completed | 2025-07-29 |
 | [LazyAdmin](tryhackme/lazyadmin/README.md) | TryHackMe | Easy | Linux | Completed | 2026-05-07 |
 | [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Exploitation | Completed | 2026-05-08 |
 | [Sudo Security Bypass](tryhackme/sudo-security-bypass/README.md) | TryHackMe | Easy | Linux | Completed | 2026-05-19 |
