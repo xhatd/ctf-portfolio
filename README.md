@@ -7,7 +7,7 @@ My hands-on cybersecurity learning journal: CTF challenges, lab exercises, tools
 ## 📊 Challenge Dashboard
 
 <!-- STATS_START -->
-**Completed:** 1 · **In progress:** 0 · **Platforms:** 0
+**Completed:** 0 · **In progress:** 0 · **Platforms:** 0
 <!-- STATS_END -->
 
 ## 🔎 Challenge Database
@@ -17,7 +17,7 @@ Browse the challenges below. Click a challenge to read its full methodology, fin
 <!-- TABLE_START -->
 | Challenge | Platform | Difficulty | Category | Status | Completed |
 |---|---|---|---|---|---|
-| [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Enumeration, Privilege Escalation | Completed | May 8, 2026 |
+| _Add your first challenge to get started_ | — | — | — | — | — |
 <!-- TABLE_END -->
 
 ## 🧰 Skills I'm Practicing
