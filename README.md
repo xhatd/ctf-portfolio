@@ -17,7 +17,7 @@ Browse the challenges below. Click a challenge to read its full methodology, fin
 <!-- TABLE_START -->
 | Challenge | Platform | Difficulty | Category | Status | Completed |
 |---|---|---|---|---|---|
-| [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Exploitation | Completed | — |
+| [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Exploitation | Completed | 2026-05-08 |
 <!-- TABLE_END -->
 
 ## 🧰 Skills I'm Practicing

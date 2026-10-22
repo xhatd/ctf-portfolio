@@ -5,6 +5,6 @@
   "category": "Web Exploitation",
   "status": "Completed",
   "tags": ["Enumeration", "Brute Force", "SSH", "Privilege Escalation"],
-  "date": "2026-05-08",
+  "completed": "2026-05-08",
   "url": ""
 }
