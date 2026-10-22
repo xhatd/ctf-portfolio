@@ -21,7 +21,7 @@ Browse the challenges below. Click a challenge to read its full methodology, fin
 | [LazyAdmin](tryhackme/lazyadmin/README.md) | TryHackMe | Easy | Linux | Completed | 2026-05-07 |
 | [Brute It](tryhackme/brute-it/README.md) | TryHackMe | Easy | Web Exploitation | Completed | 2026-05-08 |
 | [Sudo Security Bypass](tryhackme/sudo-security-bypass/README.md) | TryHackMe | Easy | Linux | Completed | 2026-05-19 |
-| [Fools Mate](tryhackme/fools-mate/README.md) | TryHackMe | Easy | — | Completed | — |
+| [Fools Mate](tryhackme/fools-mate/README.md) | TryHackMe | Easy | — | Completed | 2026-10-22 |
 <!-- TABLE_END -->
 
 ## 🧰 Skills I'm Practicing
