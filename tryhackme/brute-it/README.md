@@ -65,7 +65,3 @@ I'm probably supposed to read the file containing the passwords, but I'm used to
 
 ![Investigation](images/12-investigation.png)
 
-![Root Hash](images/13-root.png)
-
-![Final Result](images/14-final.png)
-
