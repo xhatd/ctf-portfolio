@@ -2,7 +2,7 @@
   "title": "Fools Mate",
   "platform": "TryHackMe",
   "difficulty": "Easy",
-  "category": [],
+  "category": ["Web Exploitation"],
   "status": "Completed",
   "completed": "2026-10-22",
   "tags": [],

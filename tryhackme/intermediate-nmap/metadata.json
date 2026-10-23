@@ -1,0 +1,9 @@
+{
+  "title": "Intermediate Nmap",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": ["Networking", "Linux"],
+  "status": "Completed",
+  "completed": "2026-09-18",
+  "tags": ["nmap", "linux"]
+}
