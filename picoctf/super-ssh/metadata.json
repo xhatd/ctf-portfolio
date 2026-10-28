@@ -1,0 +1,16 @@
+{
+  "title": "Super SSH",
+  "platform": "picoCTF",
+  "difficulty": "Easy",
+  "category": [
+    "General Skill"
+  ],
+  "status": "Completed",
+  "completed": "2025-07-24",
+  "tags": [
+    "picoCTF 2024",
+    "shell",
+    "ssh"
+  ],
+  "url": "https://play.picoctf.org/playlists/18?m=147"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Crack the hash",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": [
+    "Linux"
+  ],
+  "status": "Completed",
+  "completed": "2025-08-20",
+  "tags": [
+    "Linux"
+  ],
+  "url": "https://tryhackme.com/room/crackthehash"
+}

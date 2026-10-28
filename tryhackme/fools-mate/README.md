@@ -35,4 +35,4 @@ This sends the move directly to the server without triggering the browser's Java
 
 If the server accepts the move without independently validating it, we've successfully bypassed the client-side restriction.
 
-![Curl](images\01-Curl.png)
+![Curl](images/01-Curl.png)

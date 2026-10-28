@@ -1,0 +1,15 @@
+{
+  "title": "Agent Sudo",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": [
+    "Linux"
+  ],
+  "status": "Completed",
+  "completed": "2025-08-20",
+  "tags": [
+    "Linux",
+    "Web"
+  ],
+  "url": "https://tryhackme.com/room/agentsudoctf"
+}

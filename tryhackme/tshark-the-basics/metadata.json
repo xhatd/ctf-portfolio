@@ -1,0 +1,15 @@
+{
+  "title": "TShark: The Basics",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": [
+    "Networking"
+  ],
+  "status": "In Progress",
+  "completed": "",
+  "tags": [
+    "Linux",
+    "Networking"
+  ],
+  "url": "https://tryhackme.com/room/tsharkthebasics"
+}

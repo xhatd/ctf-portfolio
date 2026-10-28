@@ -1,0 +1,14 @@
+{
+  "title": "MISP",
+  "platform": "TryHackMe",
+  "difficulty": "Medium",
+  "category": [
+    "Cyber Threat Intelligence"
+  ],
+  "status": "In Progress",
+  "completed": "",
+  "tags": [
+    "Malware"
+  ],
+  "url": "https://tryhackme.com/room/misp"
+}

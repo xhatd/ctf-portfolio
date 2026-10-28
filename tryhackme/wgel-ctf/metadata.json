@@ -1,0 +1,14 @@
+{
+  "title": "Wgel CTF",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": [
+    "Web Exploitation"
+  ],
+  "status": "Completed",
+  "completed": "2025-08-20",
+  "tags": [
+    "Web"
+  ],
+  "url": "https://tryhackme.com/room/wgelctf"
+}

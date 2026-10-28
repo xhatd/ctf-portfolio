@@ -1,0 +1,14 @@
+{
+  "title": "hashcrack",
+  "platform": "picoCTF",
+  "difficulty": "Easy",
+  "category": [
+    "Cryptography"
+  ],
+  "status": "Completed",
+  "completed": "2025-07-24",
+  "tags": [
+    "picoCTF 2025"
+  ],
+  "url": "https://play.picoctf.org/practice/challenge/475?category=2&page=1"
+}

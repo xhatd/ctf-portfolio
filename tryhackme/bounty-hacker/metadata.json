@@ -1,0 +1,15 @@
+{
+  "title": "Bounty Hacker",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": [
+    "Linux"
+  ],
+  "status": "Completed",
+  "completed": "2025-08-19",
+  "tags": [
+    "Linux",
+    "Web"
+  ],
+  "url": "https://tryhackme.com/room/cowboyhacker"
+}

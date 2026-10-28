@@ -1,0 +1,14 @@
+{
+  "title": "Mr Robot CTF",
+  "platform": "TryHackMe",
+  "difficulty": "Medium",
+  "category": [
+    "Linux"
+  ],
+  "status": "In Progress",
+  "completed": "",
+  "tags": [
+    "Linux"
+  ],
+  "url": "https://tryhackme.com/room/mrrobot"
+}
