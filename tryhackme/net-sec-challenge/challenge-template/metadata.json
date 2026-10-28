@@ -1,0 +1,9 @@
+{
+  "title": "Challenge Name",
+  "platform": "TryHackMe",
+  "difficulty": "Easy",
+  "category": ["Enumeration", "Linux"],
+  "status": "In Progress",
+  "completed": "",
+  "tags": ["nmap", "linux"]
+}
